@@ -1,0 +1,6 @@
+com/examplo/prova_zambom/Feedbacks/dto/RetornarUsuarioDTO.class
+com/examplo/prova_zambom/Feedbacks/model/Feedback.class
+com/examplo/prova_zambom/ProvaZambomApplication.class
+com/examplo/prova_zambom/Feedbacks/service/FeedbackService.class
+com/examplo/prova_zambom/Feedbacks/controller/FeedbackController.class
+com/examplo/prova_zambom/Feedbacks/repository/FeedbackRepository.class
